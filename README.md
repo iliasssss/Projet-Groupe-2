@@ -1,6 +1,6 @@
-# Projet-Groupe-2
+# <p align =center>  Projet-Groupe-2 </p>
 
-# [Keepass](https://keepass.info/)
+# <p align =center>[Keepass](https://keepass.info/) </p>
 
 **Keepass Password Safe est un gestionnaire de mots de passe permettant de sauvegarder et sécuriser plusieurs mots de passe en un seul fichier chiffré**
 ## Les rôles 
