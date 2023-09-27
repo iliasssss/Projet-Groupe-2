@@ -8,4 +8,4 @@
 
 **étape 4** : cliquer sur Installer puis Terminer 
 
-**étape 5** : Lancer KeePass
+**étape 5** : lancer KeePass
