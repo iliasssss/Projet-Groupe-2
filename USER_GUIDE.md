@@ -1,8 +1,8 @@
-## Les principales fonctionnalités de KeePass
+# Les principales fonctionnalités de KeePass
 
 A présent , KeePass est pret a stocker vos mots de passe , mais il faut d'abord créer votre base de données
 
-**Préparer la base de données**
+## **Préparer la base de données**
 
 Dérouler le menu Fichier et choisir Nouveau, puis cliquer sur OK dans la boîte de dialogue qui apparaît et confirme la création d'une nouvelle base de données.
 
@@ -29,4 +29,8 @@ Cliquer sur Imprimer ou Passer .
 
 ![img5](https://img-19.commentcamarche.net/5g1hm0h3LJek_6DcbF8AEdeb_y4=/450x/smart/322a4d0591d341caaae46a82a5e5bfc4/ccmcms-commentcamarche/24056271.png)
 
-**Ajouter des mots de passe**
+## **Ajouter des mots de passe**
+
+La base de données est maintenant prête à accueillir les mots de passe. Plusieurs Groupes sont répartis au sein de KeePass : Général, Windows, Réseau, Internet, Courriel et Banque à domicile.Il est possible de créer de nouveaux groupes personnalisables. Pour mémoriser par exemple les identifiants de votre compte Facebook, sélectionner Internet puis déroulez le menu Entrée et choisir Ajouter une entrée (ou raccourci clavier Ctrl + I).
+
+![img6](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
