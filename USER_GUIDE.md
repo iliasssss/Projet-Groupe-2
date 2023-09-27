@@ -14,7 +14,19 @@ Indiquer le dossier dans lequel le fichier .kdbx sera stocké .
 
 Il faut maintenant définir le **mot de passe maitre** qui permet d'accédera à la plateforme qui mémorise tous les mots de passe, il doit être à la fois complexe mais aussi suffisamment simple à retenir.
 
-il existe une technique memotechnique pour créer manuellement un mot de passe solide (exemple : le Groupe 2 protège vos données personnelles depuis 2023 = lG2pvdpd2023)
+Il existe une technique memotechnique pour créer manuellement un mot de passe solide (exemple : le Groupe 2 protège vos données personnelles depuis 2023 = lG2pvdpd2023)
 
 il y'a deux possibilités : Générer un mot de passe complexe manuellement (jauge de sécurité) ou générer un mot de passe aléatoirement complexe et unique.
 
+![img3](https://img-19.commentcamarche.net/YtdHVYmP0IX6Ce6bWNi4cjtE0dc=/450x/smart/19b5e6e917ec4e98bb5d26efb9352eeb/ccmcms-commentcamarche/24056267.png)
+
+Une fois la nouvelle fenetre affichée, donner un nom a la base de données et à la description si souhaité .
+
+![img4](https://img-19.commentcamarche.net/wGV-MXzwtxzgqoWBXaKndz6Dnqc=/450x/smart/81e13788566a4a708b6c9ca26aabcdcb/ccmcms-commentcamarche/24056269.png)
+
+Pour se souvenir du mot de passe , KeePass propose d'imprimer un formulaire , de le remplir à la main pour le garder à l'abri .
+Cliquer sur Imprimer ou Passer .
+
+![img5](https://img-19.commentcamarche.net/5g1hm0h3LJek_6DcbF8AEdeb_y4=/450x/smart/322a4d0591d341caaae46a82a5e5bfc4/ccmcms-commentcamarche/24056271.png)
+
+**Ajouter des mots de passe**
