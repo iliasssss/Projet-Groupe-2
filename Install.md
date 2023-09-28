@@ -17,7 +17,7 @@ Ce lien vous conduit directement sur la page Internet permettant le télécharge
 
 ### - _**Etape 2 :**_  
 
-Demarrez l'installation, une fois le logiciel téléchargé, cliquez sur l'executable afin d'initialiser l'installation.
+Démarrez l'installation, une fois le logiciel téléchargé, cliquez sur l'executable afin d'initialiser l'installation.
 
 ![IMG](https://github.com/michaelc31/Projet-image/blob/main/install%202.png?raw=true)
 
