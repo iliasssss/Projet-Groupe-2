@@ -1,10 +1,9 @@
 # <p align =center> Guide d'installation de KeePass </p>
 
-Ce guide d'installation, va vous permettre de suivre _PAS à PAS_ la procèdure d'installation du logiciel `KEEPASS`
+Ce guide d'installation, va vous permettre de suivre <font color="red"> _PAS à PAS_ </font> la procèdure d'installation du logiciel `KEEPASS`
 Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site](https://keepass.info/), jusqu'au lancement de Keepass.
 
-### - _**Etape 1 :**_
-
+###  - _**Etape 1 :**_ 
 Sur le site officiel de **[keepass](https://keepass.info/)**.
 
 Cliquez sur le lien du nom de *"Keepass 2.54 Released"*
