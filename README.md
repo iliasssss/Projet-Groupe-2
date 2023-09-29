@@ -10,7 +10,9 @@
 |  Jérôme  |       |             |
 
 ## Les difficultées rencontrées
-
+Partage de dossiers/fichiers entre VM
+Droit d'accès à la database sur le serveur
+Conflit entre réseau NAT/interne
 
 ## Les Solutions 
 
