@@ -6,19 +6,41 @@ A présent , KeePass est pret a stocker vos mots de passe , mais il faut d'abord
 
 Dérouler le menu Fichier et choisir Nouveau, puis cliquer sur OK dans la boîte de dialogue qui apparaît et confirme la création d'une nouvelle base de données.
 
-![Img1](https://img-19.commentcamarche.net/KjuMxn8EQHq3_uJtX9jPvoyWV5Y=/450x/smart/caf5ddbfdeeb47759e11c15726adf22f/ccmcms-commentcamarche/24056228.png) 
+![Img1](https://img-19.commentcamarche.net/KjuMxn8EQHq3_uJtX9jPvoyWV5Y=/450x/smart/caf5ddbfdeeb47759e11c15726adf22f/ccmcms-commentcamarche/24056228.png)
 
 Indiquer le dossier dans lequel le fichier .kdbx sera stocké .
 
 ![img2](https://img-19.commentcamarche.net/bm1HrE1KJuHiJJSRdoyEuTQuPl4=/450x/smart/70b7dfd734164f63a9828a38b97c145e/ccmcms-commentcamarche/24056242.png)
 
-Il faut maintenant définir le **mot de passe maitre** qui permet d'accédera à la plateforme qui mémorise tous les mots de passe, il doit être à la fois complexe mais aussi suffisamment simple à retenir.
+Il faut maintenant définir le **MasterPASSWORD** qui permet d'accédera à la plateforme qui mémorise tous les mots de passe, il doit être à la fois complexe mais aussi suffisamment simple à retenir.
 
-Il existe une technique memotechnique pour créer manuellement un mot de passe solide (exemple : le Groupe 2 protège vos données personnelles depuis 2023 = lG2pvdpd2023)
+Il existe une technique memotechnique pour créer manuellement un mot de passe solide :
 
-il y'a deux possibilités : Générer un mot de passe complexe manuellement (jauge de sécurité) ou générer un mot de passe aléatoirement complexe et unique.
+***(exemple : le Groupe 2 protège vos données personnelles depuis 2023 = lG2pvdpd2023)***
 
 ![img3](https://img-19.commentcamarche.net/YtdHVYmP0IX6Ce6bWNi4cjtE0dc=/450x/smart/19b5e6e917ec4e98bb5d26efb9352eeb/ccmcms-commentcamarche/24056267.png)
+
+en affichant les option de l'Expert, vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquanr sur "create"
+
+- le fichier cle est un fichire qui contient un cle il doit pas etre modifié sinon vous ne pourriez plus avoir acces a la Database. elle permet d'effectuer un authentification a 2 Facteur (elle meme et le Master Password) pour plus de securité
+
+![imgage 10](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre0.png?raw=true)
+
+Une fois sur la creation de la cle on vous propose de crée un nouveau fichier clé (avec clé aléatoire) sous 2 format :
+
+- version 2.0 : nouvelle version du logiciel
+
+- version 1.0 : ancienne version du logiciel
+
+![img](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre1.png?raw=true)
+
+Une fois la version du format de la clé choisi, vous arriverez sur une nouvelle fenetre permettant la creation de la clé de 2 maniere :
+
+- A la souris : deplacer votre curseur sur le carré de gauche de maniere aléatoire jusqu'a generer une clé de securité suffissament forte.
+
+- Au clavier : Entrer de maniere aleatoire des chaine de caractere afin de generer la clé voulu
+
+![img](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre2.png?raw=true)
 
 Une fois la nouvelle fenetre affichée, donner un nom a la base de données et à la description si souhaité .
 
@@ -35,11 +57,10 @@ La base de données est maintenant prête à accueillir les mots de passe. Plusi
 
 ![img6](https://img-19.commentcamarche.net/HJAmv9VjPBwP14xBY1qHbro8fnE=/450x/smart/368b7883baac4ca3baaabf75421bc427/ccmcms-commentcamarche/24056353.png)
 
-Une fois la fenêtre affichée, indiquer dans Titre la référence des identifiants. 
+Une fois la fenêtre affichée, indiquer dans Titre la référence des identifiants.
 Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web .
-Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications . 
+Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications .
 
 ![img7](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
 
 ## Utiliser les mots de passe enregistrés
-
