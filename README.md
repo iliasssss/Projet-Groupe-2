@@ -10,10 +10,13 @@
 |  Jérôme  |       |             |
 
 ## Les difficultées rencontrées
-Partage de dossiers/fichiers entre VM
-Droit d'accès à la database sur le serveur
-Conflit entre réseau NAT/interne
+Partage de dossiers/fichiers entre VM impossible 
+Droit d'accès de fichier impossible à la database sur le serveur
+Problème avec le réseau 
 
 ## Les Solutions 
 
+.
+.
+Faire la liaison entre le réseau NAT et réseau interne
 ## Les tests réalisés
