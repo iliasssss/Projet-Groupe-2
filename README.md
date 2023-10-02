@@ -11,9 +11,9 @@
 ## Les rôles Semaine 2 
 | NOM | Roles | Description |
 | :-- |:----- | :---------- |
-| Ilias    | Scrum Master      | Garant de la progression et de l'application de la méthode scrum           |
-|  Michael   | Product Owner      |   Garant de la qualité du produit final et représentant du client         |
-|  Jérôme  |       |             |
+| Ilias    |       |            |
+|  Michael   | Scrum Master      |          |
+|  Jérôme  |  Product Owner     |             |
 
 ## Les difficultées rencontrées
 Partage de dossiers/fichiers entre VM impossible 
