@@ -14,7 +14,7 @@ Indiquer le dossier dans lequel le fichier .kdbx sera stocké .
 
 Il faut maintenant définir le **MasterPASSWORD** qui permet d'accédera à la plateforme qui mémorise tous les mots de passe, il doit être à la fois complexe mais aussi suffisamment simple à retenir.
 
-Il existe une technique memotechnique pour créer manuellement un mot de passe solide :
+Pour créer un mot de passe solide on va utiliser une passphrase :
 
 ***(exemple : le Groupe 2 protège vos données personnelles depuis 2023 = lG2pvdpd2023)***
 
