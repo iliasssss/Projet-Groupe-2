@@ -93,7 +93,7 @@ la recherche vous affichera tout les entrée ayant le nom de recherche dans ses 
 
 Quand vous avez votre entrée, il suffit simplement d'effectuer un clique droit dessus puis aller sur URL(s) > Open with ... et l'ouvrir avec votre navigateur.
 
-![img]()
+![img](https://github.com/michaelc31/Projet-image/blob/main/Userguid%20.png?raw=true)
 
 le navigateur internet s'ouvre sur le site associer a la clé, 
 
