@@ -1,7 +1,13 @@
 # <p align =center> Guide d'installation de KeePass </p>
 
 Ce guide d'installation, va vous permettre de suivre _PAS à PAS_ la procèdure d'installation du logiciel `KEEPASS`
-Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site](https://keepass.info/), jusqu'au lancement de Keepass.
+Pour cela nous allons débuter par le téléchargement du logiciel sur son [Site](https://keepass.info/), jusqu'au lancement de Keepass. (Date de Documentation 03 Octobre 2023)
+
+     ***Pour se faire vous aurez besoin :***
+
+    - Un ordinateur avec un OS windows (Documentation effectuer avec Win10 et Winsrv22)
+    
+    - Récupérer une version de Keepass. (Documentation faite avec la derniere MAJ de Keepass2.54)
 
 ###  - _**Etape 1 :**_ 
 Sur le site officiel de **[keepass](https://keepass.info/)**.
