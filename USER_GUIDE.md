@@ -1,6 +1,6 @@
 # Les principales fonctionnalités de KeePass
 
-A présent , KeePass est pret a stocker vos mots de passe , mais il faut d'abord créer votre base de données
+A présent KeePass est pret à stocker vos mots de passe, mais en priorité nous allons créer votre base de données.
 
 ## **Préparer la base de données**
 
@@ -8,25 +8,25 @@ Dérouler le menu Fichier et choisir Nouveau, puis cliquer sur OK dans la boîte
 
 ![Img1](https://img-19.commentcamarche.net/KjuMxn8EQHq3_uJtX9jPvoyWV5Y=/450x/smart/caf5ddbfdeeb47759e11c15726adf22f/ccmcms-commentcamarche/24056228.png)
 
-Indiquer le dossier dans lequel le fichier .kdbx sera stocké .
+Indiquer le dossier dans lequel le fichier .kdbx sera stocké.
 
 ![img2](https://img-19.commentcamarche.net/bm1HrE1KJuHiJJSRdoyEuTQuPl4=/450x/smart/70b7dfd734164f63a9828a38b97c145e/ccmcms-commentcamarche/24056242.png)
 
-Il faut maintenant définir le **MasterPASSWORD** qui permet d'accédera à la plateforme qui mémorise tous les mots de passe, il doit être à la fois complexe mais aussi suffisamment simple à retenir.
+Il faut maintenant définir le **MasterPASSWORD** qui permet d'accéder à la plateforme qui mémorise tous les mots de passe, il doit être à la fois complexe mais aussi suffisamment simple à retenir.
 
-Pour créer un mot de passe solide on va utiliser une passphrase :
+Pour créer un mot de passe solide nous utiliserons une passphrase :
 
 ***(exemple : le Groupe 2 protège vos données personnelles depuis 2023 = lG2pvdpd2023)***
 
 ![img3](https://img-19.commentcamarche.net/YtdHVYmP0IX6Ce6bWNi4cjtE0dc=/450x/smart/19b5e6e917ec4e98bb5d26efb9352eeb/ccmcms-commentcamarche/24056267.png)
 
-en affichant les option de l'Expert, vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquanr sur "create"
+Cocher la case " Afficher les options de l'Expert", vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquanr sur "create"
 
-- le fichier cle est un fichire qui contient un cle il doit pas etre modifié sinon vous ne pourriez plus avoir acces a la Database. elle permet d'effectuer un authentification a 2 Facteur (elle meme et le Master Password) pour plus de securité
+- le fichier clé est un fichier qui contient un clé chiffrée, il ne doit en aucun être modifié sinon vous ne pourriez plus avoir accès à la Database. Cette clè permet d'effectuer un authentification à 2 facteurs (elle meme et le Master Password) pour plus de securité.
 
 ![imgage 10](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre0.png?raw=true)
 
-Une fois sur la creation de la cle on vous propose de crée un nouveau fichier clé (avec clé aléatoire) sous 2 format :
+Une fois sur la creation de la clé on vous propose de créer un nouveau fichier clé (avec clé aléatoire) sous 2 format :
 
 - version 2.0 : nouvelle version du logiciel (version compatible avec KEEPASS2)
 
