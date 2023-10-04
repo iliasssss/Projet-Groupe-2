@@ -28,13 +28,13 @@ en affichant les option de l'Expert, vous aurez la possibilité d'amplifier la s
 
 Une fois sur la creation de la cle on vous propose de crée un nouveau fichier clé (avec clé aléatoire) sous 2 format :
 
-- version 2.0 : nouvelle version du logiciel (version Utiliser pour nous)
+- version 2.0 : nouvelle version du logiciel (version compatible avec KEEPASS2)
 
-- version 1.0 : ancienne version du logiciel (compatible avec les anciennes version de Keepass et les version portable) : Pas utile dans notre cas.
+- version 1.0 : ancienne version du logiciel (compatible avec les anciennes version de Keepass et les version portable) : "Pas utile dans notre cas."
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre1.png?raw=true)
 
-Une fois la version 2.0 du format de la clé choisi, vous arriverez sur une nouvelle fenetre permettant la creation de la clé de 2 maniere :
+Une fois la version 2.0 du format de la clé choisi , vous arriverez sur une nouvelle fenetre permettant la creation de la clé de 2 maniere :
 
 - A la souris : deplacer votre curseur sur le carré de gauche de maniere aléatoire jusqu'a generer une clé de securité suffissament forte.
 
