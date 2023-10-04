@@ -53,11 +53,12 @@ Cliquer sur Imprimer ou Passer.
 
 ## **Ajouter des mots de passe**
 
-La base de données est maintenant prête à accueillir les mots de passe. Plusieurs Groupes sont répartis au sein de KeePass : Général, Windows, Réseau, Internet, Courriel et Banque à domicile. Il est possible de créer de nouveaux groupes personnalisables. Pour mémoriser par exemple les identifiants de votre compte Facebook, sélectionner Internet puis dérouler le menu "Entrée" et choisir "Ajouter une entrée" (ou raccourci clavier Ctrl + I).
+La base de données est maintenant prête à accueillir les mots de passe. Plusieurs Groupes sont répartis au sein de KeePass : Général, Windows, Réseau, Internet, Courriel et Banque à domicile. Il est possible de créer de nouveaux groupes personnalisables. Pour mémoriser par exemple les identifiants de votre compte Facebook, sélectionner "Internet" puis dérouler le menu "Entrée" et choisir "Ajouter une entrée" (ou raccourci clavier Ctrl + I).
 
 ![img6](https://img-19.commentcamarche.net/HJAmv9VjPBwP14xBY1qHbro8fnE=/450x/smart/368b7883baac4ca3baaabf75421bc427/ccmcms-commentcamarche/24056353.png)
 
 Une fois la fenêtre affichée, indiquer dans "Titre" la référence des identifiants.
+
 Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web .
 Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications.
 
@@ -65,27 +66,27 @@ Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications.
 
 Une fois la fenêtre affichée, indiquer dans "Titre" la référence des identifiants.
 Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web.
-Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications.
+Cliquer sur OK ou Raccourci Ctrl + S pour enregistrer les modifications.
 
 ![img7](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
 
 ## Utiliser les mots de passe enregistrés
 
-Une fois la Database, crée et fonctionnelle, nous allons vous expliquer comment l'utiliser.
+Une fois la Database créée et fonctionnelle, nous allons vous expliquer comment l'utiliser.
 
-Premierement ouvrir Keepass avec la database contenant vous informations personelles, une fois celle-ci ouverte, il vous faudra d'abord rechercher l'entrée contenant votre mot de passe.
+Premierement ouvrir Keepass avec la database contenant vos informations personnelles, une fois celle-ci ouverte, il vous faudra d'abord rechercher l'entrée contenant votre mot de passe.
 
-Pour cela, fait `Ctrl+F` ou cliquer sur l'onglet "Find" puis "Find" 
+Pour cela, faites `Ctrl+F` ou cliquer sur l'onglet "Find" puis "Find".
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Userguid%201.png?raw=true)
 
-Dans le cadre a coter de "Find what" entrer simplement le nom rechercher (site web, nom d'utilisateur ...)
+Dans le cadre à côté de "Find what" entrer simplement le nom rechercher (site web, nom d'utilisateur...)
 
-la recherche vous affichera tout les entrée ayant le nom de recherche dans ses information.
+la recherche vous affichera toutes les entrées ayant le nom de recherche dans ses informations.
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Userguid%203.png?raw=true)
 
-Quand vous avez votre entrée, il suffit simplement d'effectuer un clique droit dessus puis aller sur URL(s) > Open with ... et l'ouvrir avec votre navigateur.
+Quand vous avez votre entrée, il suffit simplement d'effectuer un clic droit dessus puis aller sur URL(s) > Open with ... et l'ouvrir avec votre navigateur.
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Userguid%20.png?raw=true)
 
