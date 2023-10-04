@@ -53,14 +53,19 @@ Cliquer sur Imprimer ou Passer.
 
 ## **Ajouter des mots de passe**
 
-La base de données est maintenant prête à accueillir les mots de passe. Plusieurs Groupes sont répartis au sein de KeePass : Général, Windows, Réseau, Internet, Courriel et Banque à domicile. Il est possible de créer de nouveaux groupes personnalisables. Pour mémoriser par exemple les identifiants de votre compte Facebook, sélectionner "Internet" puis dérouler le menu "Entrée" et choisir "Ajouter une entrée" (ou raccourci clavier Ctrl + I).
+La base de données est maintenant prête à accueillir les mots de passe. 
+
+Plusieurs Groupes sont répartis au sein de KeePass : Général, Windows, Réseau, Internet, Courriel et Banque à domicile.
+
+Il est possible de créer de nouveaux groupes personnalisables. Pour mémoriser par exemple les identifiants de votre compte Facebook, sélectionner "Internet" puis dérouler le menu "Entrée" et choisir "Ajouter une entrée" (ou raccourci clavier Ctrl + I).
 
 ![img6](https://img-19.commentcamarche.net/HJAmv9VjPBwP14xBY1qHbro8fnE=/450x/smart/368b7883baac4ca3baaabf75421bc427/ccmcms-commentcamarche/24056353.png)
 
-Une fois la fenêtre affichée, indiquer dans "Titre" la référence des identifiants.
+Une fois la fenêtre affichée, indiquer dans "Titre" l'intitulé que vous souhaitez enregistré.
 
-Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web .
-Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications.
+Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web.
+
+Cliquer sur OK ou Raccourci Ctrl + S pour enregistrer les modifications.
 
 ![img7](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
 
@@ -84,7 +89,7 @@ Quand vous avez votre entrée, il suffit simplement d'effectuer un clic droit de
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Userguid%20.png?raw=true)
 
-le navigateur internet s'ouvre sur le site associer a la clé, 
+le navigateur internet s'ouvre sur le site associer a la clé.
 
 > pour une saisie automatique : il vous suffit de mettre le curseur sur le login et de revenir sur Keepass et effectuer un `Ctrl+V` afin que Keepass saisisse automatiquement Login et le Mot de passe .
 
