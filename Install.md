@@ -48,7 +48,7 @@ Dans la suite de l'installation, nous allons choisir le dossier de destination d
 
      - Installation complete : installe tous les composants du logiciel
      
-     - Installation compacte : snstalle que les fichiers de base Keepass 
+     - Installation compacte : installe que les fichiers de base Keepass 
      
      - Installation personnalisée : permet de séléctionner les composants du logiciel que vous voulez installer.
 
