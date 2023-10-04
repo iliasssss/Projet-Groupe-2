@@ -63,15 +63,9 @@ Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications.
 
 ![img7](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
 
-## Utiliser les mots de passe enregistrés
-
-La base de données est maintenant prête à accueillir les mots de passe. Plusieurs Groupes sont répartis au sein de KeePass : Général, Windows, Réseau, Internet, Courriel et Banque à domicile.Il est possible de créer de nouveaux groupes personnalisables. Pour mémoriser par exemple les identifiants de votre compte Facebook, sélectionner Internet puis déroulez le menu Entrée et choisir Ajouter une entrée (ou raccourci clavier Ctrl + I).
-
-![img6](https://img-19.commentcamarche.net/HJAmv9VjPBwP14xBY1qHbro8fnE=/450x/smart/368b7883baac4ca3baaabf75421bc427/ccmcms-commentcamarche/24056353.png)
-
-Une fois la fenêtre affichée, indiquer dans Titre la référence des identifiants.
-Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web .
-Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications .
+Une fois la fenêtre affichée, indiquer dans "Titre" la référence des identifiants.
+Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web.
+Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications.
 
 ![img7](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
 
