@@ -46,7 +46,7 @@ Pour pouvoir acceder a la database sur le client depuis le serveur, nous avons b
 ## <p align =center> Les difficultées rencontrées
 
 Durant nos different test, nous avons etait confronter a different probleme: 
- -  Partage de dossiers/fichiers entre VM impossible : une fois les machines bien configurer  
+ -  Partage de dossiers/fichiers entre VM impossible : une fois les machines bien configurer au niveau réseaux  
  
  -  Droit d'accès de fichier impossible à la database sur le serveur
  
