@@ -114,15 +114,35 @@ Comme vous avez pu voir plus haut en récuperant le mot de passe, nous pouvons r
 
 ![img15](https://github.com/michaelc31/Projet-image/blob/main/Suite4.png?raw=true)
 
+## Réglage Auto-Type pour une saisie automatique reussi :
+
+Pour etre sure que le remplissage automatique fonctionne, il vous sera peu etre demander de modifier la commande executer par l'Auto-Type dans l'entrée
+
+Pour se faire, faites un clique droit sur l'entrée est aller sur "edit entry"
+
+![img16](https://github.com/michaelc31/Projet-image/blob/main/Suite5.png?raw=true)
+
+une fois dans l'entrée aller sur l'onglet "Auto-Type", et cocher la "Override default sequence" qui signifie changer la sequence par defaut et remplacer la sequence par 
+l'une des sequence suivante selon le type de connexion au site desirée. 
+ 
+ - la sequence {USERNAME}{TAB}{PASSWORD}{ENTER} : sequence par defaut, sert pour les site ou le login et le mot de passe sont sur la meme pages separer en 2 onglets 
+ 
+ - la sequence {USERNAME}{ENTER}{DELAY 1500}{PASSWORD}{ENTER} sert au site avec une connexion en 2 parti: Parti 1 login chargement de page Parti 2 mot de passe (ex : Amazon ...)
+ 
+ - la sequence {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} : Sequence utile quand le login et le mot de passe sont sur la meme page mais qu'un onglet separe le login et le mot de passe (ex: laposte) 
+
+![img17](https://github.com/michaelc31/Projet-image/blob/main/Suite6.png?raw=true)
+
 # Problème :
 
 | Probleme | Solution   |
 |---|---|
 | Vous n'arrivez pas a lancer Keepass  | Vérifier que Keepass est bien installé.   |
 | Vous n'arrivez pas a vous connecter a la Database |  Etes vous sûr de votre mot de passe ?  |
-|   |  Verifier le chemin d'accès a la database |
-|   | Demander au technicien de verifier l'etat du reseau  |
-
+|   |  Vérifier le chemin d'accès a la database |
+|   | Demander au technicien de verifier l'état du reseau  |
 | Vous n'arrivez pas a sauvegarder une modification sur la database | Si la database est en local verifier les droits du fichier  |
 |   |  Si la database est sur un serveur demander la verification des droits d'acces au fichier |
+| Auto-Type ne fonction pas | Verifier que le curseur soit bien sur le login avant de lancer la commande d'Auto-Type |
+|   | Verifier la syntaxe de la sequence d'Auto-Type |
 
