@@ -22,44 +22,44 @@ Pour créer un mot de passe solide nous utiliserons une passphrase :
 
 Cocher la case " Afficher les options de l'Expert", vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquanr sur "create"
 
-- le fichier clé est un fichier qui contient un clé chiffrée, il ne doit en aucun être modifié sinon vous ne pourriez plus avoir accès à la Database. Cette clè permet d'effectuer un authentification à 2 facteurs (elle meme et le Master Password) pour plus de securité.
+- le fichier clé est un fichier qui contient un clé chiffrée. il ne doit en aucun être modifié sinon vous ne pourriez plus avoir accès à la Database. Cette clè permet d'effectuer une authentification à 2 facteurs (elle meme et le Master Password) pour plus de securité.
 
 ![imgage 10](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre0.png?raw=true)
 
-Une fois sur la creation de la clé on vous propose de créer un nouveau fichier clé (avec clé aléatoire) sous 2 format :
+Sur la page de la creation de la clé, le logiciel vous propose de créer un nouveau fichier clé (avec clé aléatoire) sous 2 formats :
 
 - version 2.0 : nouvelle version du logiciel (version compatible avec KEEPASS2)
 
-- version 1.0 : ancienne version du logiciel (compatible avec les anciennes version de Keepass et les version portable) : "Pas utile dans notre cas."
+- version 1.0 : ancienne version du logiciel (compatible avec les anciennes versions de Keepass et les versions portable) : "Pas utile dans notre cas."
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre1.png?raw=true)
 
-Une fois la version 2.0 du format de la clé choisi , vous arriverez sur une nouvelle fenetre permettant la creation de la clé de 2 maniere :
+Sélectionner obligatoirement le premier choix de format de  la clé : "2.0 (recommended), vous arriverez sur une nouvelle fenetre permettant la creation de la clé de 2 manières :
 
-- A la souris : deplacer votre curseur sur le carré de gauche de maniere aléatoire jusqu'a generer une clé de securité suffissament forte.
+- A la souris : deplacer votre curseur sur le carré de gauche de maniere aléatoire jusqu'a générer une clé de securité suffissament forte.
 
-- Au clavier : Entrer de maniere aleatoire des chaine de caractere afin de generer la clé voulu
+- Au clavier : Entrer de maniere aléatoire des chaines de caractères afin de générer la clé souhaitée.
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre2.png?raw=true)
 
-Une fois la nouvelle fenetre affichée, donner un nom a la base de données et à la description si souhaité .
+Une fois la nouvelle fenetre affichée, donner un nom à la base de données, puis à sa description si souhaité.
 
 ![img4](https://img-19.commentcamarche.net/wGV-MXzwtxzgqoWBXaKndz6Dnqc=/450x/smart/81e13788566a4a708b6c9ca26aabcdcb/ccmcms-commentcamarche/24056269.png)
 
-Pour se souvenir du mot de passe , KeePass propose d'imprimer un formulaire , de le remplir à la main pour le garder à l'abri .
-Cliquer sur Imprimer ou Passer .
+Pour se souvenir du mot de passe, KeePass propose d'imprimer un formulaire, de le remplir à la main pour le garder à l'abri.
+Cliquer sur Imprimer ou Passer.
 
 ![img5](https://img-19.commentcamarche.net/5g1hm0h3LJek_6DcbF8AEdeb_y4=/450x/smart/322a4d0591d341caaae46a82a5e5bfc4/ccmcms-commentcamarche/24056271.png)
 
 ## **Ajouter des mots de passe**
 
-La base de données est maintenant prête à accueillir les mots de passe. Plusieurs Groupes sont répartis au sein de KeePass : Général, Windows, Réseau, Internet, Courriel et Banque à domicile.Il est possible de créer de nouveaux groupes personnalisables. Pour mémoriser par exemple les identifiants de votre compte Facebook, sélectionner Internet puis déroulez le menu Entrée et choisir Ajouter une entrée (ou raccourci clavier Ctrl + I).
+La base de données est maintenant prête à accueillir les mots de passe. Plusieurs Groupes sont répartis au sein de KeePass : Général, Windows, Réseau, Internet, Courriel et Banque à domicile. Il est possible de créer de nouveaux groupes personnalisables. Pour mémoriser par exemple les identifiants de votre compte Facebook, sélectionner Internet puis dérouler le menu "Entrée" et choisir "Ajouter une entrée" (ou raccourci clavier Ctrl + I).
 
 ![img6](https://img-19.commentcamarche.net/HJAmv9VjPBwP14xBY1qHbro8fnE=/450x/smart/368b7883baac4ca3baaabf75421bc427/ccmcms-commentcamarche/24056353.png)
 
-Une fois la fenêtre affichée, indiquer dans Titre la référence des identifiants.
+Une fois la fenêtre affichée, indiquer dans "Titre" la référence des identifiants.
 Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web .
-Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications .
+Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications.
 
 ![img7](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
 
