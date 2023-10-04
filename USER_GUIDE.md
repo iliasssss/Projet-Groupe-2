@@ -95,9 +95,11 @@ le navigateur internet s'ouvre sur le site associer a la clé,
 
 > pour une recuperation de mot de passe : si vs voulez juste afficher votre mot de passe, clique droit sur l'entrée,     edit, et vous aurez acces a l'ensemble des informations de l'entrée. 
 ![img12](https://github.com/michaelc31/Projet-image/blob/main/Suite1.png?raw=true)
- Vous pourrez afficher le mot de passe en cliquant sur `...` a coté du mot de passe.
+
+> Vous pourrez afficher le mot de passe en cliquant sur `...` a coté du mot de passe.
 ![img13](https://github.com/michaelc31/Projet-image/blob/main/Suite2.png?raw=true)
- Vous pourrez copier le mot de passe en le selctionnant et en faissant clique droit "copier"
+
+> Vous pourrez copier le mot de passe en le selctionnant et en faissant clique droit "copier"
 ![img14](https://github.com/michaelc31/Projet-image/blob/main/Suite3.png?raw=true)
 
 
