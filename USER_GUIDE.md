@@ -71,26 +71,52 @@ Cliquer sur OK ou Raccourci Ctrl + S pour enregistrer les modifications.
 
 ## Utiliser les mots de passe enregistrés
 
-Une fois la Database créée et fonctionnelle, nous allons vous expliquer comment l'utiliser.
+Une fois la Database, crée et fonctionnelle, nous allons vous expliquer comment l'utiliser.
 
-Premierement ouvrir Keepass avec la database contenant vos informations personnelles, une fois celle-ci ouverte, il vous faudra d'abord rechercher l'entrée contenant votre mot de passe.
+Premierement ouvrir Keepass avec la database contenant vous informations personelles, une fois celle-ci ouverte, il vous faudra d'abord rechercher l'entrée contenant votre mot de passe.
 
-Pour cela, faites `Ctrl+F` ou cliquer sur l'onglet "Find" puis "Find".
+Pour cela, fait `Ctrl+F` ou cliquer sur l'onglet "Find" puis "Find"
 
-![img](https://github.com/michaelc31/Projet-image/blob/main/Userguid%201.png?raw=true)
+![img8](https://github.com/michaelc31/Projet-image/blob/main/Userguid%201.png?raw=true)
 
-Dans le cadre à côté de "Find what" entrer simplement le nom rechercher (site web, nom d'utilisateur...)
+Dans le cadre a coter de "Find what" entrer simplement le nom rechercher (site web, nom d'utilisateur ...)
 
-la recherche vous affichera toutes les entrées ayant le nom de recherche dans ses informations.
+la recherche vous affichera tout les entrée ayant le nom de recherche dans ses information.
 
-![img](https://github.com/michaelc31/Projet-image/blob/main/Userguid%203.png?raw=true)
+![img9](https://github.com/michaelc31/Projet-image/blob/main/Userguid%20.png?raw=true)
 
-Quand vous avez votre entrée, il suffit simplement d'effectuer un clic droit dessus puis aller sur URL(s) > Open with ... et l'ouvrir avec votre navigateur.
+Quand vous avez votre entrée, il suffit simplement d'effectuer un clique droit dessus puis aller sur URL(s) > Open with ... et l'ouvrir avec votre navigateur.
 
-![img](https://github.com/michaelc31/Projet-image/blob/main/Userguid%20.png?raw=true)
+![img10](https://github.com/michaelc31/Projet-image/blob/main/Userguid%203.png?raw=true)
 
-le navigateur internet s'ouvre sur le site associer a la clé.
+le navigateur internet s'ouvre sur le site associer a la clé,
 
 > pour une saisie automatique : il vous suffit de mettre le curseur sur le login et de revenir sur Keepass et effectuer un `Ctrl+V` afin que Keepass saisisse automatiquement Login et le Mot de passe .
 
-> pour une recuperation de mot de passe : si vs voulez juste afficher votre mot de passe, 
+> pour une recuperation de mot de passe : si vs voulez juste afficher votre mot de passe, clique droit sur l'entrée,     edit, et vous aurez acces a l'ensemble des informations de l'entrée. 
+![img12](https://github.com/michaelc31/Projet-image/blob/main/Suite1.png?raw=true)
+ Vous pourrez afficher le mot de passe en cliquant sur `...` a coté du mot de passe.
+![img13](https://github.com/michaelc31/Projet-image/blob/main/Suite2.png?raw=true)
+ Vous pourrez copier le mot de passe en le selctionnant et en faissant clique droit "copier"
+![img14](https://github.com/michaelc31/Projet-image/blob/main/Suite3.png?raw=true)
+
+
+## Récupération d'information sur une Entrée :
+
+Comme vous avez pu voir plus haut en récuperant le mot de passe, nous pouvons récupérez n'importe quels donnée sur une entrée (ex: login, mot de passe, URL ...), pour cela :
+
+- Clique droit sur l'entrée desirée > selectionnée "Edit entry" et vous aurez acces aux information de la dite entrée.
+
+![img15](https://github.com/michaelc31/Projet-image/blob/main/Suite4.png?raw=true)
+
+# Problème :
+
+| Probleme | Solution   |
+|---|---|
+| Vous n'arrivez pas a lancer Keepass  | Vérifier que Keepass et bien installer.   |
+| Vous n'arrivez pas a vous connecter a la Database |  Etes vous sure de votre mot de passe ?  |
+|   |  Verifier le chemin d'access a la database |
+|   | Demander au technicien de verifier l'etat du reseau  |
+| Vous n'arrivez pas a sauvegarder une modification sur la database | Si la database est en local verifier les droits du fichier  |
+|   |  Si la database est sur un serveur demander la verification des droits d'acces au fichier |
+
