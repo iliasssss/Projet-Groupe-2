@@ -14,7 +14,7 @@ Une database sécurise par Cle est une database auquel ont as ajouté lors de la
 
 Vous trouverez un fichier [Install.md](), qui vous servira d'instruction d'installation etape par etape
 
-vous trouverez un fichier [User_Guid.md], qui vous servira a configurer le logiciel Keepass du début.
+vous trouverez un fichier [User_Guid.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/USER_GUIDE.md), qui vous servira a configurer le logiciel Keepass du début.
 
 ## <p align =center> Roles Par semaine.
 
