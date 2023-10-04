@@ -64,12 +64,6 @@ Cliquer sur OK puis Raccourci Ctrl + S pour enregistrer les modifications.
 
 ![img7](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
 
-Une fois la fenêtre affichée, indiquer dans "Titre" la référence des identifiants.
-Saisir l'identifiant et le mot de passe utilisé pour accéder au compte qui correspond ainsi que l'URL du site Web.
-Cliquer sur OK ou Raccourci Ctrl + S pour enregistrer les modifications.
-
-![img7](https://img-19.commentcamarche.net/uH2mW_cVrIZUKYRZrQuWeCJwp1M=/450x/smart/7a22ba78337e43ed99b06fd1f5216db6/ccmcms-commentcamarche/24056366.png)
-
 ## Utiliser les mots de passe enregistrés
 
 Une fois la Database créée et fonctionnelle, nous allons vous expliquer comment l'utiliser.
