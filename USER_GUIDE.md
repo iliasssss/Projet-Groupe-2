@@ -93,7 +93,7 @@ le navigateur internet s'ouvre sur le site associer a la clé,
 
 pour une saisie automatique : il vous suffit de mettre le curseur sur le login et de revenir sur Keepass et effectuer un `Ctrl+V` afin que Keepass saisisse automatiquement Login et le Mot de passe .
 
-pour une recuperation de mot de passe : si vous voulez juste afficher votre mot de passe, clic droit sur l'entrée,     edit, et vous aurez acces a l'ensemble des informations de l'entrée.
+pour une recuperation de mot de passe : si vous voulez juste afficher votre mot de passe, clic droit sur l'entrée,     edit, et vous aurez accès à l'ensemble des informations de l'entrée.
 
 ![img12](https://github.com/michaelc31/Projet-image/blob/main/Suite1.png?raw=true)
 
@@ -101,16 +101,16 @@ Vous pourrez afficher le mot de passe en cliquant sur `...` a coté du mot de pa
 
 ![img13](https://github.com/michaelc31/Projet-image/blob/main/Suite2.png?raw=true)
 
-Vous pourrez copier le mot de passe en le selctionnant et en faissant clique droit "copier"
+Vous pourrez copier le mot de passe en le selctionnant et en faissant clic droit "copier"
 
 ![img14](https://github.com/michaelc31/Projet-image/blob/main/Suite3.png?raw=true)
 
 
 ## Récupération d'information sur une Entrée :
 
-Comme vous avez pu voir plus haut en récuperant le mot de passe, nous pouvons récupérez n'importe quels donnée sur une entrée (ex: login, mot de passe, URL ...), pour cela :
+Comme vous avez pu voir plus haut en récuperant le mot de passe, nous pouvons récupérer n'importe quelle donnée sur une entrée (ex: login, mot de passe, URL ...), pour cela :
 
-- Clique droit sur l'entrée desirée > selectionnée "Edit entry" et vous aurez acces aux information de la dite entrée.
+- Clic droit sur l'entrée desirée > selectionner "Edit entry" et vous aurez acceè aux informations de la dite entrée.
 
 ![img15](https://github.com/michaelc31/Projet-image/blob/main/Suite4.png?raw=true)
 
@@ -118,10 +118,11 @@ Comme vous avez pu voir plus haut en récuperant le mot de passe, nous pouvons r
 
 | Probleme | Solution   |
 |---|---|
-| Vous n'arrivez pas a lancer Keepass  | Vérifier que Keepass et bien installer.   |
-| Vous n'arrivez pas a vous connecter a la Database |  Etes vous sure de votre mot de passe ?  |
-|   |  Verifier le chemin d'access a la database |
+| Vous n'arrivez pas a lancer Keepass  | Vérifier que Keepass est bien installé.   |
+| Vous n'arrivez pas a vous connecter a la Database |  Etes vous sûr de votre mot de passe ?  |
+|   |  Verifier le chemin d'accès a la database |
 |   | Demander au technicien de verifier l'etat du reseau  |
+
 | Vous n'arrivez pas a sauvegarder une modification sur la database | Si la database est en local verifier les droits du fichier  |
 |   |  Si la database est sur un serveur demander la verification des droits d'acces au fichier |
 
