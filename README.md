@@ -7,13 +7,13 @@
 | :-- |:----- | :---------- |
 | Ilias    | Scrum Master      | Garant de la progression et de l'application de la méthode scrum           |
 |  Michael   | Product Owner      |   Garant de la qualité du produit final et représentant du client         |
-|  Jérôme  |       |             |
+|  Jérôme  |       |             |  Tests et travail sur présentation |
 ## Les rôles Semaine 2 
 | NOM | Roles | Description |
 | :-- |:----- | :---------- |
 | Ilias    |       |            |
-|  Michael   | Scrum Master      |          |
-|  Jérôme  |  Product Owner     |             |
+|  Michael   | Scrum Master      |  Garant de la progression et de l'application de la méthode scrum          |
+|  Jérôme  |  Product Owner     |  Garant de la qualité du produit final et représentant du client          |
 
 ## Les difficultées rencontrées
 Partage de dossiers/fichiers entre VM impossible 
