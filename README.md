@@ -2,21 +2,21 @@
 
 ### <p align =center> [Keepass](https://keepass.info/)
  
-**Keepass Password Safe est un gestionnaire de mots de passe permettant de sauvegarder et sécuriser plusieurs mots de passe en un seul fichier chiffré**
+**Keepass Password Safe est un gestionnaire de mots de passe permettant de sauvegarder et sécuriser plusieurs mots de passe en un seul fichier chiffré**.
 
 
 ## <p align =center> Besoin Initiaux :
 
-Il nous as était demander de crée une Database sécurisé par "Clé" stocké sur un serveur et utilisable par un client.
+Il nous as été demandé de créér une Database sécurisée par "Clé" stocké sur un serveur et utilisable par un client.
 
-Une database sécurise par Cle est une database auquel ont as ajouté lors de la création un fichier clé contenant une clé de cryptage generer aleatoirement permetant la liaison entre la database et le mot de passe maitre.
+Une database sécurisée par clé est une database à laquelle nous ajoutons, lors de sa création, un fichier clé contenant une clé de cryptage générée aleatoirement. Cela permet la liaison entre la database et le mot de passe maitre.
 
 
 ## <p align =center> Etapes d'installation et de configuration :
 
-Vous trouverez un fichier [Install.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/Install.md), qui vous servira d'instruction d'installation etape par etape
+Vous trouverez un fichier [Install.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/Install.md), qui vous servira d'instruction d'installation étape par étape
 
-vous trouverez un fichier [User_Guid.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/USER_GUIDE.md), qui vous servira a configurer le logiciel Keepass du début.
+vous trouverez un fichier [User_Guid.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/USER_GUIDE.md), qui vous servira à configurer le logiciel Keepass du début.
 
 
 ## <p align =center> Roles Par semaine.
@@ -38,36 +38,36 @@ vous trouverez un fichier [User_Guid.md](https://github.com/iliasssss/Projet-Gro
 
 ## <p align =center> Choix Techniques:
 
-Pour notre projet Keepass, nous avons besoin d'un client et d'un serveur. Notre équipe à choisit de prendre un windows 10 et un windows 2022 serveur ainsi que le logiciel Keepass2 "version2.54" qui est au jour de la documentation la derniere mise a jour de Keepass.
+Pour notre projet Keepass, nous avons besoin d'un client et d'un serveur. Notre équipe a choisi de prendre un windows 10 et un windows 2022 serveur ainsi que le logiciel Keepass2 "version2.54" qui est à ce jour la derniere version de Keepass.
 
-Pour pouvoir acceder a la database sur le client depuis le serveur, nous avons besoin que nous machines soit sur le meme reseaux, la database sera stocké sur un fichier partager. 
+Pour pouvoir accéder à la database sur le client depuis le serveur, nous avons besoin que nos machines soit sur le même réseau, la database sera stocké sur un fichier partager. 
 
 
 ## <p align =center> Les difficultées rencontrées
 
-Durant nos different test, nous avons etait confronter a different probleme: 
+Durant nos différents tests, nous avons eté confronté aux incidents suivants: 
 
- -  Partage de dossiers/fichiers entre VM impossible : une fois les machines bien configurer au niveau réseaux (adressage et parefeu), le partage de fichier n'etait pas toujours disponible.  
+ -  Partage de dossiers/fichiers entre VM impossible : une fois les machines bien configurées au niveau réseau (adressage et parefeu), le partage de fichier n'etait pas toujours disponible.  
  
- -  Droit d'accès de fichier impossible à la database sur le serveur : une fois la Database sur le serveur, le client se connecte dessus apres modification de la database impossibilité de sauvegarder
+ -  Droit d'accès de fichier impossible à la database sur le serveur : une fois la Database sur le serveur, le client se connecte dessus apres modification de la database mais il était impossible de la sauvegarder.
 
- -  Probleme avec AutoType : Selon les sites et leur façon de se connecter l'AutoType marche pas forcément
+ -  Incident avec AutoType : Selon les sites et leur façon de se connecter l'AutoType ne fonctione pas systématiquement.
 
 
 ## <p align =center> Les Solutions 
 
-Pour resoudre les differents problemes rencontrés nous avons effectuer different test se qui nous as permis de trouver les solution suivant aux problemes:
+Pour resoudre les differents incidents rencontrés nous avons effectuer differents tests ce qui nous a permis de trouver les solutions suivantes :
  
- -  Partage de dossiers/fichiers entre VM impossible : l'impossibilité de se connecter au dossier partager venait d'un conflit de carte reseau sur les VM. Après differents test il s'est avéré que les carte reseau devait etre configurer de la maniere suivante pour le client: 1 premiere carte Nat avec connexion a internet et 1 seconde carte interne avec la configuration reseau parametrer dessus. et pour le serveur on est rester sur 1 carte interne.
+ -  Partage de dossiers/fichiers entre VM impossible : l'impossibilité de se connecter au dossier partagé venait d'un conflit de carte reseau sur les VM. Après differents tests il s'est avéré que les cartes reseaux devaient etre configurées de la maniere suivante pour le client: 1 première carte Nat avec connexion à internet et 1 seconde carte interne avec la configuration réseau parametrer dessus et pour le serveur nous avons activé qu'une seule carte réseau interne (Intnet).
  
- -  Droit d'accès de fichier impossible à la database sur le serveur : Apres different test il s'est avéré que le souci venez d'un oubli de droits sur l'utilisateur se qui empecher la sauvegarde de la Database.
+ -  Droit d'accès de fichier impossible à la database sur le serveur : après plusieurs vérifications des propriétés réseaux et de partage nous avions omi les droits pour l'utilisateur en mode écriture cequi empechait la sauvegarde de la Database.
  
- -  Il faut selon le site faire un reglage dans les commande AutoType pour que celle ci fonctionne et remplacer la ligne {USERNAME}{TAB}{PASSWORD}{ENTER} par {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} ou {USERNAME}{ENTER}{DELAY=1000}{PASSWORD}{ENTER} 
+ -  Il faut selon le site faire un reglage dans les commandes AutoType pour que celle-ci fonctionne et remplace la ligne {USERNAME}{TAB}{PASSWORD}{ENTER} par {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} ou {USERNAME}{ENTER}{DELAY=1000}{PASSWORD}{ENTER} 
 
 
 ## <p align =center> Les tests réalisés
 
-Durant les 2 dernieres semaines nous avons realiser les test suivants:
+Durant les 2 dernieres semaines nous avons realiséles test suivants:
 
 -- Création de VM avec OS Windows10 et Windows22 server
 
@@ -75,11 +75,11 @@ Durant les 2 dernieres semaines nous avons realiser les test suivants:
 
 -- Télechargement du Logiciel Keepass2 et test en local : Création Database classique, création d'entrée, test AutoType, Réglage AutoType.
 
--- Création et Test de Database Final du Projet : Création d'une Database Securisé par Clé, création d'un User, Création des diverses entrées de la Database
+-- Création et Test de Database Final du Projet : Création d'une Database sécurisée par Clé, création d'un utilisateur, création des diverses entrées de la Database.
 
--- Mise en Réseau de la Database : Création du Dossier Partager pour la liaison entre le client et le serveur
+-- Mise en Réseau de la Database : création du dossier partagé pour la liaison entre le client et le serveur.
 
--- Test de recuperation de la Database sur le serveur.
+-- Test de récuperation de la Database sur le serveur.
 
 -- Utilisation de Keepass en condition réél
 
