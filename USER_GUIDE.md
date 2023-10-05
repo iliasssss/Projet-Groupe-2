@@ -22,7 +22,7 @@ Pour créer un mot de passe solide nous utiliserons une passphrase :
 
 Cocher la case " Afficher les options de l'Expert", vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquant sur "create"
 
-- le fichier clé est un fichier qui contient un clé chiffrée. il ne doit en aucun être modifié sinon vous ne pourriez plus avoir accès à la Database. Cette clè permet d'effectuer une authentification à 2 facteurs (elle meme et le Master Password) pour plus de securité.
+- le fichier clé est un fichier qui contient une clé chiffrée. il ne doit en aucun être modifié sinon vous ne pourriez plus avoir accès à la Database. Cette clè permet d'effectuer une authentification à 2 facteurs (elle même et le Master Password) pour plus de securité.
 
 ![imgage 10](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre0.png?raw=true)
 
@@ -34,11 +34,11 @@ Sur la page de la creation de la clé, le logiciel vous propose de créer un nou
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre1.png?raw=true)
 
-Sélectionner obligatoirement le premier choix de format de  la clé : "2.0 (recommended), vous arriverez sur une nouvelle fenetre permettant la creation de la clé de 2 manières :
+Sélectionner obligatoirement le premier choix de format de  la clé : "2.0 (recommended), vous arriverez sur une nouvelle fenêtre permettant la creation de la clé de 2 manières :
 
-- A la souris : deplacer votre curseur sur le carré de gauche de maniere aléatoire jusqu'a générer une clé de securité suffissament forte.
+- A la souris : deplacer votre curseur sur le carré de gauche de maniere aléatoire jusqu'à générer une clé de securité suffisamment forte.
 
-- Au clavier : Entrer de maniere aléatoire des chaines de caractères afin de générer la clé souhaitée.
+- Au clavier : entrer de manière aléatoire des chaînes de caractères afin de générer la clé souhaitée.
 
 ![img](https://github.com/michaelc31/Projet-image/blob/main/Sans%20titre2.png?raw=true)
 
@@ -73,7 +73,7 @@ Cliquer sur OK ou Raccourci Ctrl + S pour enregistrer les modifications.
 
 Une fois la Database créée et fonctionnelle nous allons vous expliquer comment l'utiliser.
 
-Premierement ouvrir Keepass avec la database contenant vous informations personnelles, une fois celle-ci ouverte, il vous faudra d'abord rechercher l'entrée contenant votre mot de passe.
+Premièrement ouvrir Keepass avec la database contenant vos informations personnelles, une fois celle-ci ouverte, il vous faudra d'abord rechercher l'entrée contenant votre mot de passe.
 
 Pour cela, faites `Ctrl+F` ou cliquer sur l'onglet "Find" puis "Find"
 
@@ -93,15 +93,15 @@ le navigateur internet s'ouvre sur le site associé a la clé,
 
 pour une saisie automatique : il vous suffit de mettre le curseur sur le login et de revenir sur Keepass et d'effectuer un `Ctrl+V` afin que Keepass saisisse automatiquement votre nom d'utilisteur et votre mot de passe .
 
-pour une recuperation de mot de passe : si vous voulez juste afficher votre mot de passe, clic droit sur l'entrée,     edit, et vous aurez accès à l'ensemble des informations de l'entrée.
+pour une récuperation de mot de passe : si vous voulez juste afficher votre mot de passe, clic droit sur l'entrée, edit, et vous aurez accès à l'ensemble des informations de l'entrée.
 
 ![img12](https://github.com/michaelc31/Projet-image/blob/main/Suite1.png?raw=true)
 
-Vous pourrez afficher le mot de passe en cliquant sur `...` a coté du mot de passe.
+Vous pourrez afficher le mot de passe en cliquant sur `...` à coté du mot de passe.
 
 ![img13](https://github.com/michaelc31/Projet-image/blob/main/Suite2.png?raw=true)
 
-Vous pourrez copier le mot de passe en le selectionnant et en faissant clic droit "copier"
+Vous pourrez copier le mot de passe en le selectionnant et en faissant clic droit "copier".
 
 ![img14](https://github.com/michaelc31/Projet-image/blob/main/Suite3.png?raw=true)
 
@@ -116,20 +116,19 @@ Comme vous avez pu voir plus haut en récuperant le mot de passe, nous pouvons r
 
 ## Réglage Auto-Type pour une saisie automatique reussi :
 
-Pour etre sure que le remplissage automatique fonctionne, il vous sera peu etre demander de modifier la commande executer par l'Auto-Type dans l'entrée
+Pour être sûr que le remplissage automatique fonctionne, il vous sera peut-être demandé de modifier la commande éxecuter par l'Auto-Type dans l'entrée.
 
-Pour se faire, faites un clique droit sur l'entrée est aller sur "edit entry"
+Pour ce faire, faites un clic droit sur l'entrée et aller sur "edit entry".
 
 ![img16](https://github.com/michaelc31/Projet-image/blob/main/Suite5.png?raw=true)
 
-une fois dans l'entrée aller sur l'onglet "Auto-Type", et cocher la "Override default sequence" qui signifie changer la sequence par defaut et remplacer la sequence par 
-l'une des sequence suivante selon le type de connexion au site desirée. 
+une fois dans l'entrée, aller sur l'onglet "Auto-Type", et cocher la "Override default sequence" qui signifie changer la sequence par defaut et remplacer la sequence par l'une des séquences suivantes selon le type de connexion au site desiré. 
  
- - la sequence {USERNAME}{TAB}{PASSWORD}{ENTER} : sequence par defaut, sert pour les site ou le login et le mot de passe sont sur la meme pages separer en 2 onglets 
+ - la séquence {USERNAME}{TAB}{PASSWORD}{ENTER} : séquence par defaut, sert pour les sites dans lesquels le login et le mot de passe sont sur la même page séparée en 2 onglets 
  
- - la sequence {USERNAME}{ENTER}{DELAY 1500}{PASSWORD}{ENTER} sert au site avec une connexion en 2 parti: Parti 1 login chargement de page Parti 2 mot de passe (ex : Amazon ...)
+ - la séquence {USERNAME}{ENTER}{DELAY 1500}{PASSWORD}{ENTER} sert au site avec une connexion en 2 parties : partie 1 login chargement de page partie 2 mot de passe (ex : Amazon ...)
  
- - la sequence {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} : Sequence utile quand le login et le mot de passe sont sur la meme page mais qu'un onglet separe le login et le mot de passe (ex: laposte) 
+ - la séquence {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} : séquence utile quand le login et le mot de passe sont sur la meme page mais qu'un onglet sépare le login et le mot de passe (ex: laposte) 
 
 ![img17](https://github.com/michaelc31/Projet-image/blob/main/Suite6.png?raw=true)
 
@@ -137,11 +136,11 @@ l'une des sequence suivante selon le type de connexion au site desirée.
 
 | Probleme | Solution   |
 |---|---|
-| Vous n'arrivez pas a lancer Keepass  | Vérifier que Keepass est bien installé.   |
-| Vous n'arrivez pas a vous connecter a la Database |  Etes vous sûr de votre mot de passe ?  |
-|   |  Vérifier le chemin d'accès a la database |
+| Vous n'arrivez pas à lancer Keepass  | Vérifier que Keepass est bien installé.   |
+| Vous n'arrivez pas à vous connecter à la Database |  Etes vous sûr de votre mot de passe ?  |
+|   |  Vérifier le chemin d'accès à la database |
 |   | Demander au technicien de verifier l'état du reseau  |
-| Vous n'arrivez pas a sauvegarder une modification sur la database | Si la database est en local verifier les droits du fichier  |
+| Vous n'arrivez pas à sauvegarder une modification sur la database | Si la database est en local verifier les droits du fichier  |
 |   |  Si la database est sur un serveur demander la verification des droits d'acces au fichier |
 | Auto-Type ne fonction pas | Verifier que le curseur soit bien sur le login avant de lancer la commande d'Auto-Type |
 |   | Verifier la syntaxe de la sequence d'Auto-Type |
