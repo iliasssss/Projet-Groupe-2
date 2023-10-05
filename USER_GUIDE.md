@@ -124,11 +124,11 @@ Pour ce faire, faites un clic droit sur l'entrée et aller sur "edit entry".
 
 Une fois dans l'entrée, aller sur l'onglet "Auto-Type", et cocher "Override default sequence" qui signifie changer la séquence par defaut et remplacer la séquence par l'une des séquences suivantes selon le type de connexion au site desiré. 
  
- - la séquence {USERNAME}{TAB}{PASSWORD}{ENTER} : séquence par defaut, sert pour les sites dans lesquels le login et le mot de passe sont sur la même page séparée en 2 onglets 
+ - la séquence {USERNAME}{TAB}{PASSWORD}{ENTER} : séquence par defaut, sert pour les sites dans lesquels le login et le mot de passe sont sur la même page séparée en 2 onglets.
  
- - la séquence {USERNAME}{ENTER}{DELAY 1500}{PASSWORD}{ENTER} sert au site avec une connexion en 2 parties : partie 1 login chargement de page partie 2 mot de passe (ex : Amazon ...)
+ - la séquence {USERNAME}{ENTER}{DELAY 1500}{PASSWORD}{ENTER} sert au site avec une connexion en 2 parties : partie 1 login chargement de page partie 2 mot de passe (ex : Amazon ...).
  
- - la séquence {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} : séquence utile quand le login et le mot de passe sont sur la meme page mais qu'un onglet sépare le login et le mot de passe (ex: laposte) 
+ - la séquence {USERNAME}{TAB}{TAB}{PASSWORD}{ENTER} : séquence utile quand le login et le mot de passe sont sur la meme page mais qu'un onglet sépare le login et le mot de passe (ex: laposte).
 
 ![img17](https://github.com/michaelc31/Projet-image/blob/main/Suite6.png?raw=true)
 
