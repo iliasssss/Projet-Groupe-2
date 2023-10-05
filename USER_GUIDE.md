@@ -20,7 +20,7 @@ Pour créer un mot de passe solide nous utiliserons une passphrase :
 
 ![img3](https://img-19.commentcamarche.net/YtdHVYmP0IX6Ce6bWNi4cjtE0dc=/450x/smart/19b5e6e917ec4e98bb5d26efb9352eeb/ccmcms-commentcamarche/24056267.png)
 
-Cocher la case " Afficher les options de l'Expert", vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquant sur "create"
+Cocher la case " Afficher les options de l'Expert", vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquant sur "create".
 
 - le fichier clé est un fichier qui contient une clé chiffrée. il ne doit en aucun être modifié sinon vous ne pourriez plus avoir accès à la Database. Cette clè permet d'effectuer une authentification à 2 facteurs (elle même et le Master Password) pour plus de securité.
 
@@ -28,7 +28,7 @@ Cocher la case " Afficher les options de l'Expert", vous aurez la possibilité d
 
 Sur la page de la creation de la clé, le logiciel vous propose de créer un nouveau fichier clé (avec clé aléatoire) sous 2 formats :
 
-- version 2.0 : nouvelle version du logiciel (version compatible avec KEEPASS2)
+- version 2.0 : nouvelle version du logiciel (version compatible avec KEEPASS2).
 
 - version 1.0 : ancienne version du logiciel (compatible avec les anciennes versions de Keepass et les versions portable) : "Pas utile dans notre cas."
 
