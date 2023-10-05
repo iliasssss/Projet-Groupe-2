@@ -67,7 +67,7 @@ Pour resoudre les differents incidents rencontrés nous avons effectué de nombr
 
 ## <p align =center> Les tests réalisés
 
-Durant les 2 dernieres semaines nous avons realisés les tests suivants:
+Durant les 2 dernieres semaines nous avons realisé les tests suivants:
 
 -- Création de VM avec OS Windows10 et Windows22 server.
 
@@ -81,6 +81,6 @@ Durant les 2 dernieres semaines nous avons realisés les tests suivants:
 
 -- Test de récuperation de la Database sur le serveur.
 
--- Utilisation de Keepass en condition réélle
+-- Utilisation de Keepass en condition réélle.
 
--- Test démonstration pour la présentation
+-- Test démonstration pour la présentation.
