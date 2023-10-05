@@ -5,9 +5,9 @@
 **Keepass Password Safe est un gestionnaire de mots de passe permettant de sauvegarder et sécuriser plusieurs mots de passe dans un seul fichier chiffré**.
 
 
-## <p align =center> Besoin Initiaux :
+## <p align =center> Besoins Initiaux :
 
-Il nous a été demandé de créer une Database sécurisée par "Clé" stockée sur un serveur et utilisable par un client.
+Demande de base : créer une Database sécurisée par "Clé" stockée sur un serveur et utilisable par un client.
 
 Une database sécurisée par clé est une database à laquelle nous ajoutons, lors de sa création, un fichier clé contenant une clé de cryptage générée aleatoirement. Cela permet la liaison entre la database et le mot de passe maitre.
 
@@ -43,7 +43,7 @@ Pour notre projet Keepass, nous avons besoin d'un client et d'un serveur. Notre 
 Pour pouvoir accéder à la database sur le client depuis le serveur, nous avons besoin que nos machines soient sur le même réseau, la database sera stockée sur un fichier partagé. 
 
 
-## <p align =center> Les difficultées rencontrées
+## <p align =center> Les difficultés rencontrées
 
 Durant nos différents tests, nous avons eté confronté aux incidents suivants: 
 
