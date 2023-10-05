@@ -4,7 +4,7 @@ A présent KeePass est pret à stocker vos mots de passe, mais en priorité nous
 
 ## **Préparer la base de données**
 
-Dérouler le menu Fichier et choisir Nouveau, puis cliquer sur OK dans la boîte de dialogue qui apparaît et confirme la création d'une nouvelle base de données.
+Dérouler le menu "Fichier" et choisir "Nouveau", puis cliquer sur OK dans la boîte de dialogue qui apparaît et confirmer la création d'une nouvelle base de données.
 
 ![Img1](https://img-19.commentcamarche.net/KjuMxn8EQHq3_uJtX9jPvoyWV5Y=/450x/smart/caf5ddbfdeeb47759e11c15726adf22f/ccmcms-commentcamarche/24056228.png)
 
