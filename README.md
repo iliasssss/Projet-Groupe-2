@@ -16,7 +16,7 @@ Une database sécurisée par clé est une database à laquelle nous ajoutons, lo
 
 Vous trouverez un fichier [Install.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/Install.md), qui vous servira d'instruction d'installation étape par étape
 
-vous trouverez un fichier [User_Guid.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/USER_GUIDE.md), qui vous servira à configurer le logiciel Keepass du début.
+vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/USER_GUIDE.md), pour vous aider à configurer le logiciel Keepass pas à pas.
 
 
 ## <p align =center> Roles Par semaine.
