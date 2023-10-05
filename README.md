@@ -1,4 +1,4 @@
-# <p align =center>Projet-Groupe-2 
+# <p align =center> <font color='green'> Projet-Groupe-2 </font> </p> 
 
 ### <p align =center> [Keepass](https://keepass.info/)
  
