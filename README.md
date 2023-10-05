@@ -38,9 +38,9 @@ vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Gr
 
 ## <p align =center> Choix Techniques:
 
-Pour notre projet Keepass, nous avons besoin d'un client et d'un serveur. Notre équipe a choisi de prendre un windows 10 et un windows 2022 serveur ainsi que le logiciel Keepass2 "version2.54" qui est à ce jour la derniere version de Keepass.
+Pour notre projet Keepass, nous avons besoin d'un client et d'un serveur. Notre équipe a choisi de prendre un windows 10 et un windows 2022 serveur ainsi que le logiciel Keepass2 "version2.54" qui est à ce jour (05/10/2023) la dernière version de Keepass.
 
-Pour pouvoir accéder à la database sur le client depuis le serveur, nous avons besoin que nos machines soit sur le même réseau, la database sera stocké sur un fichier partager. 
+Pour pouvoir accéder à la database sur le client depuis le serveur, nous avons besoin que nos machines soient sur le même réseau, la database sera stockée sur un fichier partagé. 
 
 
 ## <p align =center> Les difficultées rencontrées
