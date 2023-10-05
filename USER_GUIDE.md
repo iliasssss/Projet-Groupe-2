@@ -75,7 +75,7 @@ Une fois la Database créée et fonctionnelle nous allons vous expliquer comment
 
 Premièrement ouvrir Keepass avec la database contenant vos informations personnelles, une fois celle-ci ouverte, il vous faudra d'abord rechercher l'entrée contenant votre mot de passe.
 
-Pour cela, faites `Ctrl+F` ou cliquer sur l'onglet "Find" puis "Find"
+Pour cela, faites `Ctrl+F` ou cliquer sur l'onglet "Find" puis "Find".
 
 ![img8](https://github.com/michaelc31/Projet-image/blob/main/Userguid%201.png?raw=true)
 
@@ -89,9 +89,9 @@ Quand vous avez votre entrée, il suffit simplement d'effectuer un clic droit de
 
 ![img10](https://github.com/michaelc31/Projet-image/blob/main/Userguid%203.png?raw=true)
 
-le navigateur internet s'ouvre sur le site associé a la clé,
+le navigateur internet s'ouvre sur le site associé à la clé.
 
-pour une saisie automatique : il vous suffit de mettre le curseur sur le login et de revenir sur Keepass et d'effectuer un `Ctrl+V` afin que Keepass saisisse automatiquement votre nom d'utilisteur et votre mot de passe .
+Pour une saisie automatique : il vous suffit de mettre le curseur sur le login et de revenir sur Keepass et d'effectuer un `Ctrl+V` afin que Keepass saisisse automatiquement votre nom d'utilisteur et votre mot de passe.
 
 pour une récuperation de mot de passe : si vous voulez juste afficher votre mot de passe, clic droit sur l'entrée, edit, et vous aurez accès à l'ensemble des informations de l'entrée.
 
@@ -116,13 +116,13 @@ Comme vous avez pu voir plus haut en récuperant le mot de passe, nous pouvons r
 
 ## Réglage Auto-Type pour une saisie automatique reussi :
 
-Pour être sûr que le remplissage automatique fonctionne, il vous sera peut-être demandé de modifier la commande éxecuter par l'Auto-Type dans l'entrée.
+Pour être sûr que le remplissage automatique fonctionne, il vous sera peut-être demandé de modifier la commande "éxecuter" par l'Auto-Type dans l'entrée.
 
 Pour ce faire, faites un clic droit sur l'entrée et aller sur "edit entry".
 
 ![img16](https://github.com/michaelc31/Projet-image/blob/main/Suite5.png?raw=true)
 
-une fois dans l'entrée, aller sur l'onglet "Auto-Type", et cocher la "Override default sequence" qui signifie changer la sequence par defaut et remplacer la sequence par l'une des séquences suivantes selon le type de connexion au site desiré. 
+Une fois dans l'entrée, aller sur l'onglet "Auto-Type", et cocher la "Override default sequence" qui signifie changer la séquence par defaut et remplacer la séquence par l'une des séquences suivantes selon le type de connexion au site desiré. 
  
  - la séquence {USERNAME}{TAB}{PASSWORD}{ENTER} : séquence par defaut, sert pour les sites dans lesquels le login et le mot de passe sont sur la même page séparée en 2 onglets 
  
