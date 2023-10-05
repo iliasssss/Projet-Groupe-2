@@ -20,7 +20,7 @@ Pour créer un mot de passe solide nous utiliserons une passphrase :
 
 ![img3](https://img-19.commentcamarche.net/YtdHVYmP0IX6Ce6bWNi4cjtE0dc=/450x/smart/19b5e6e917ec4e98bb5d26efb9352eeb/ccmcms-commentcamarche/24056267.png)
 
-Cocher la case " Afficher les options de l'Expert", vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquanr sur "create"
+Cocher la case " Afficher les options de l'Expert", vous aurez la possibilité d'amplifier la securité de la Database en ajoutant "un fichier Clé" en cochant celle-ci et en cliquant sur "create"
 
 - le fichier clé est un fichier qui contient un clé chiffrée. il ne doit en aucun être modifié sinon vous ne pourriez plus avoir accès à la Database. Cette clè permet d'effectuer une authentification à 2 facteurs (elle meme et le Master Password) pour plus de securité.
 
