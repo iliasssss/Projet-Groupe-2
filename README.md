@@ -7,7 +7,7 @@
 
 ## <p align =center> Besoin Initiaux :
 
-Il nous a été demandé de créér une Database sécurisée par "Clé" stockée sur un serveur et utilisable par un client.
+Il nous a été demandé de créer une Database sécurisée par "Clé" stockée sur un serveur et utilisable par un client.
 
 Une database sécurisée par clé est une database à laquelle nous ajoutons, lors de sa création, un fichier clé contenant une clé de cryptage générée aleatoirement. Cela permet la liaison entre la database et le mot de passe maitre.
 
