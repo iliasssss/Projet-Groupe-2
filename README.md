@@ -5,21 +5,21 @@
 **Keepass Password Safe est un gestionnaire de mots de passe permettant de sauvegarder et sécuriser plusieurs mots de passe dans un seul fichier chiffré**.
 
 
-## <p align =center> Besoins Initiaux :
+## <p align =center> Besoins Initiaux
 
 Demande de base : créer une Database sécurisée par "Clé" stockée sur un serveur et utilisable par un client.
 
 Une database sécurisée par clé est une database à laquelle nous ajoutons, lors de sa création, un fichier clé contenant une clé de cryptage générée aleatoirement. Cela permet la liaison entre la database et le mot de passe maitre.
 
 
-## <p align =center> Etapes d'installation et de configuration :
+## <p align =center> Etapes d'installation et de configuration
 
 Vous trouverez un fichier [Install.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/Install.md), qui vous servira d'instruction d'installation étape par étape
 
 vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Groupe-2/blob/main/USER_GUIDE.md), pour vous aider à configurer le logiciel Keepass pas à pas.
 
 
-## <p align =center> Roles Par semaine.
+## <p align =center> Rôles par semaine
 
 ### Semaine 1 
 | NOM | Roles | Description |
@@ -36,7 +36,7 @@ vous trouverez un fichier [USER_GUIDE.md](https://github.com/iliasssss/Projet-Gr
 |  Jérôme  |  Product Owner     |  Garant de la qualité du produit final et représentant du client    |
 
 
-## <p align =center> Choix Techniques:
+## <p align =center> Choix Techniques
 
 Pour notre projet Keepass, nous avons besoin d'un client et d'un serveur. Notre équipe a choisi de prendre un windows 10 et un windows 2022 serveur ainsi que le logiciel Keepass2 "version2.54" qui est à ce jour (05/10/2023) la dernière version de Keepass.
 
