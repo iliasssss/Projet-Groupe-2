@@ -122,7 +122,7 @@ Pour ce faire, faites un clic droit sur l'entrée et aller sur "edit entry".
 
 ![img16](https://github.com/michaelc31/Projet-image/blob/main/Suite5.png?raw=true)
 
-Une fois dans l'entrée, aller sur l'onglet "Auto-Type", et cocher la "Override default sequence" qui signifie changer la séquence par defaut et remplacer la séquence par l'une des séquences suivantes selon le type de connexion au site desiré. 
+Une fois dans l'entrée, aller sur l'onglet "Auto-Type", et cocher "Override default sequence" qui signifie changer la séquence par defaut et remplacer la séquence par l'une des séquences suivantes selon le type de connexion au site desiré. 
  
  - la séquence {USERNAME}{TAB}{PASSWORD}{ENTER} : séquence par defaut, sert pour les sites dans lesquels le login et le mot de passe sont sur la même page séparée en 2 onglets 
  
