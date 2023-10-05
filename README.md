@@ -51,12 +51,12 @@ Durant nos différents tests, nous avons eté confronté aux incidents suivants:
  
  -  Droit d'accès de fichier impossible à la database sur le serveur : une fois la Database sur le serveur, le client se connecte dessus apres modification de la database mais il était impossible de la sauvegarder.
 
- -  Incident avec AutoType : Selon les sites et leur façon de se connecter l'AutoType ne fonctione pas systématiquement.
+ -  Incident avec "AutoType" : selon les sites et leur mode d'authentification "l'AutoType" ne fonctione pas systématiquement.
 
 
-## <p align =center> Les Solutions 
+## <p align =center> Les solutions 
 
-Pour resoudre les differents incidents rencontrés nous avons effectuer differents tests ce qui nous a permis de trouver les solutions suivantes :
+Pour resoudre les differents incidents rencontrés nous avons effectué de nombreux tests pour parvenir aux solutions suivantes :
  
  -  Partage de dossiers/fichiers entre VM impossible : l'impossibilité de se connecter au dossier partagé venait d'un conflit de carte reseau sur les VM. Après differents tests il s'est avéré que les cartes reseaux devaient etre configurées de la maniere suivante pour le client: 1 première carte Nat avec connexion à internet et 1 seconde carte interne avec la configuration réseau parametrer dessus et pour le serveur nous avons activé qu'une seule carte réseau interne (Intnet).
  
@@ -67,20 +67,20 @@ Pour resoudre les differents incidents rencontrés nous avons effectuer differen
 
 ## <p align =center> Les tests réalisés
 
-Durant les 2 dernieres semaines nous avons realiséles test suivants:
+Durant les 2 dernieres semaines nous avons realisés les tests suivants:
 
--- Création de VM avec OS Windows10 et Windows22 server
+-- Création de VM avec OS Windows10 et Windows22 server.
 
--- Mise en réseaux des VM : configuration IP, verification de comunication avec la commande `Ping`
+-- Mise en réseau des VM : configuration IP, vérification de communication avec la commande `Ping`.
 
--- Télechargement du Logiciel Keepass2 et test en local : Création Database classique, création d'entrée, test AutoType, Réglage AutoType.
+-- Téléchargement du Logiciel Keepass2 et test en local : Création Database classique, création d'entrée, test AutoType, Réglage AutoType.
 
--- Création et Test de Database Final du Projet : Création d'une Database sécurisée par Clé, création d'un utilisateur, création des diverses entrées de la Database.
+-- Création et Test de Database Final du Projet : création d'une Database sécurisée par Clé, création d'un utilisateur, création des diverses entrées de la Database.
 
 -- Mise en Réseau de la Database : création du dossier partagé pour la liaison entre le client et le serveur.
 
 -- Test de récuperation de la Database sur le serveur.
 
--- Utilisation de Keepass en condition réél
+-- Utilisation de Keepass en condition réélle
 
--- Test Présentation
+-- Test démonstration pour la présentation
